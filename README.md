@@ -96,9 +96,14 @@ The project includes advanced design features such as **dynamic filters**, **flo
 ## 👩‍💻 Author
 
 **Nikitha Nooka**  
-Data Analyst | Tableau | Power BI | Python | SQL  
-📧 Email: [nikithanooka22@gmail.com](mailto:nikithanooka22@gmail.com)
-📞 Phone: +91-9966102426
+*Aspiring Data Analyst | Tableau | Power BI | Python | SQL*
+
+📧 **Email:** [nikithanooka22@gmail.com](mailto:nikithanooka22@gmail.com)  
+📞 **Phone:** +91-9966102426
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nikithanooka22)  
+🔗 [HackerRank](https://www.hackerrank.com/profile/NIKITHANOOKA22)  
+🔗 [LeetCode](https://leetcode.com/u/NikithaNooka/)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nikithanooka22)  
 🔗 [HackerRank](https://www.hackerrank.com/profile/NIKITHANOOKA22)  
